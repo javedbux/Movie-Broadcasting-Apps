@@ -1,0 +1,6 @@
+{
+  "name": "SyncCast Cinema - Local & Remote Movie Broadcaster",
+  "description": "Synchronized movie broadcasting app with low-latency multi-device sync, headphone-only silent cinema mode, host controls, and .NET 8 LAN architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
